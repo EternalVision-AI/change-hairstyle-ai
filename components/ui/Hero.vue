@@ -1,8 +1,7 @@
 <template lang="pug">
 section
   .text-h2
-    | Change your hairstyle with AI.
-    span For everyone.
+    | Hairstyle App
 </template>
 
 <style lang="stylus" scoped>
