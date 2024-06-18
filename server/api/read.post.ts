@@ -8,9 +8,7 @@ export default defineEventHandler(async (event) => {
       method: 'GET',
       headers: {
         'Content-Type': 'application/json',
-        Authorization: 'Token ' + 'r8_RsJlp6Oq544TKxf5b0RiBuSI5Mr1SrB1GWytR'
-        // Authorization: 'Token ' + useRuntimeConfig().replicateApiToken
-        
+        Authorization: 'Token ' + useRuntimeConfig().replicateApiToken
       }
     }
   )
