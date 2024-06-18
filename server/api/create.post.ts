@@ -13,7 +13,7 @@ export default defineEventHandler(async (event) => {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        Authorization: 'Token ' + 'r8_Gr0EwGNyH4pvCSOgp7SXEQaS8T52r2306aOko'
+        Authorization: 'Token ' + 'r8_RsJlp6Oq544TKxf5b0RiBuSI5Mr1SrB1GWytR'
       },
       body: JSON.stringify({
         version:
