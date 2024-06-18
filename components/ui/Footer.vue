@@ -26,27 +26,6 @@ footer
     color="#dcdcdc"
     flat rounded
   )
-    v-icon(icon="mdi-vuejs")
-    | Vue
-  v-spacer
-  v-btn(
-    :size="size"
-    :height="height"
-    href="https://twitter.com/PontusAurdal"
-    target="_new"
-    color="secondary"
-    icon="mdi-twitter"
-    flat
-  )
-  v-btn(
-    :size="size"
-    :height="height"
-    href="https://github.com/Pwntus/change-hairstyle-ai"
-    target="_new"
-    color="black"
-    icon="mdi-github"
-    flat fab
-  )
 </template>
 
 <script setup lang="ts">

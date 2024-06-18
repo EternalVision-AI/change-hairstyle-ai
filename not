@@ -1,0 +1,5 @@
+# Get your Replicate API token at https://www.replicate.com/account
+NUXT_REPLICATE_API_TOKEN='r8_di2fmXwq1jw5XOEHd2DP487uX8MU1HG0DLIYL'
+
+# Google Tag Manager ID (for analytics)
+NUXT_GTAG_ID=
