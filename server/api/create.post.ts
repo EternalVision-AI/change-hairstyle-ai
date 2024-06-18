@@ -13,7 +13,7 @@ export default defineEventHandler(async (event) => {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        Authorization: 'Token ' + useRuntimeConfig().replicateApiToken
+        Authorization: 'Token ' + 'r8_Gr0EwGNyH4pvCSOgp7SXEQaS8T52r2306aOko'
       },
       body: JSON.stringify({
         version:
